@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+
+![gihubgif](https://user-images.githubusercontent.com/54854216/102911613-49e3f900-44a2-11eb-970b-29201c0ce283.gif)
+
 
 
 - 🔭 I’m currently working on **MERN e-commerce website**
