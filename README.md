@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **himanshu3198live@gmail.com**
 
-- ⚡ Fun fact **Noting right now😛😛😛**
+- ⚡ Fun fact **LOL😛😛😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
