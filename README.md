@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **stock trading app**
 
-- 💬 Ask me about **Any thing I will be happy to help you😊😊 **
+- 💬 Ask me about **Any thing I will be happy to help you😊😊**
 
 - 📫 How to reach me **himanshu3198live@gmail.com**
 
