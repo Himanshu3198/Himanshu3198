@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **stock trading app**
 
-- 💬 Ask me about **css,javascript,react, Data Structure**
+- 💬 Ask me about **Any thing I will be happy to help you😊😊 **
 
 - 📫 How to reach me **himanshu3198live@gmail.com**
 
-- ⚡ Fun fact **LOL😛😛😛**
+- ⚡ Fun fact **follow me 😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
