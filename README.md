@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-![gihubgif](https://user-images.githubusercontent.com/54854216/102911613-49e3f900-44a2-11eb-970b-29201c0ce283.gif)
-
-
-
 - 🔭 I’m currently working on **MERN e-commerce website**
 
 - 🌱 I’m currently learning **React Native**
