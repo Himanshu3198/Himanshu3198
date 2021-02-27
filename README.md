@@ -5,15 +5,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **stock trading app**
-
 - 🤝 I’m looking for help with **stock trading app**
 
-- 💬 Ask me about **Any thing I will be happy to help you😊😊**
-
 - 📫 How to reach me **himanshu3198live@gmail.com**
-
-- ⚡ Fun fact **follow me 😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
