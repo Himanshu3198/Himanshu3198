@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **MERN e-commerce website**
+- 🔭 I’m currently working on **MERN E-COMMERCE acesolar.com **
 
 - 🌱 I’m currently learning **React Native**
 
