@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu3198" alt="himanshu3198" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/himansh_codes" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh_codes?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh_codes" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh_codes" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh_codes?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh_codes" /></a> </p>
+ -->
 <!-- - 🔭 I’m currently working on **MERN e-commerce website** -->
 
 - 🌱 I’m currently learning **React Native**
