@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/himansh_codes" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/himansh_codes?logo=twitter&style=for-the-badge" alt="https://twitter.com/himansh_codes" /></a> </p>
 
-- 🔭 I’m currently working on **MERN e-commerce website**
+<!-- - 🔭 I’m currently working on **MERN e-commerce website** -->
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **stock trading app**
+<!-- - 👯 I’m looking to collaborate on **stock trading app** -->
 
-- 🤝 I’m looking for help with **stock trading app**
+<!-- - 🤝 I’m looking for help with **stock trading app** -->
 
 - 💬 Ask me about **Interviews,Css,Javascript,React, Data Structure Algorithms**
 
