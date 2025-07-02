@@ -9,17 +9,12 @@
  -->
 <!-- - 🔭 I’m currently working on **MERN e-commerce website** -->
 
-- 🌱 I’m currently learning **React Native**
+
 
 <!-- - 👯 I’m looking to collaborate on **stock trading app** -->
 
 <!-- - 🤝 I’m looking for help with **stock trading app** -->
 
-- 💬 Ask me about **Interviews,Css,Javascript,React, Data Structure Algorithms**
-
-- 📫 How to reach me **himanshu3198live@gmail.com**
-
-- ⚡ Fun fact **Noting right now😛😛😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
