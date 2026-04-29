@@ -15,7 +15,7 @@ Full Stack Developer from India. I enjoy building scalable web apps, solving rea
 JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
 
 **Backend**
-Node.js, Express.js, Python, FastAPI
+Java, SpringBoot, Python, FastAPI
 
 **Database**
 MongoDB, MySQL, PostgreSQL
